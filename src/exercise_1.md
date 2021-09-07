@@ -1,7 +1,7 @@
 # Užduotis 1
 
 1. Pridėkime šiek tiek stiliaus prie savo HTML dokumento! Pakeiskite viso puslapio fono spalvą, tada pasirinkite naują `<h1>` elementų šriftą ir pridėkite pabraukimą `<h2>` elementams.
-2. Naudokite teksto lygiavimą (ang text align), kad išdėstytumėte teksto dalis savo puslapyje.
+2. Naudokite teksto lygiavimą (ang. text align), kad išdėstytumėte teksto dalis savo puslapyje.
 3. Pridėkite puslapio pastraipoms rėmelius (ang. border), kad būtų jas lengviau pastebėti.
 4. Naudokite **margin** ir **padding**, kad padidintumėte atstumą tarp puslapio elementų.
 
