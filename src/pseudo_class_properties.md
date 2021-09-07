@@ -1,0 +1,1 @@
+# Galimos pseudo-class savybės

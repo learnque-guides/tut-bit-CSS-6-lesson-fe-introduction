@@ -1,0 +1,16 @@
+# Summary
+
+- [CSS stiliaus atributai (properties)](./css_properties.md)
+- [Šrifto apipavidalinimas](./font_styling.md)
+- [Rėmelio (ang. border) apipavidalinimas](./border_css.md)
+- [Elementų lygiavimas (ang. alignment)](./alignment_css.md)
+- [Užduotis 1](./exercise_1.md)
+- [Elementų pozicionavimas/išdėstymas](./positioning_lements.md)
+- [Užduotis 2](./exercise_2.md)
+- [Display](./display.md)
+- [Užduotis 3](./exercise_3.md)
+- [clear ir clearfix](./clear_and_clearfix.md)
+- [Daugiau apie pseudo-class](./more_about_pseudo_class.md)
+- [pseudo-class panaudojimo pavyzdis](./pseudo_class_example.md)
+- [Užduotis 4](./exercise_4.md)
+- [Praktinė užduotis](./exercise_5.md)

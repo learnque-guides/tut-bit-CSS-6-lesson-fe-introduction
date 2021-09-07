@@ -1,0 +1,26 @@
+# pseudo-class panaudojimo pavyzdis
+
+`<p>`elementas neturi būti matomas, bet kai mes užvesime žymeklį (ang. pointer) ant  `<div>` elemento, jis atsiras.
+
+```html
+<html>
+<head>
+<style>
+    p {
+        display: none; 
+        background-color: yellow;
+        padding: 20px;
+    } 
+    
+    div:hover p {
+      display: block;
+    } 
+</style>
+</head>
+<body>
+    <div>Hover over me to show the p element!
+        <p>Tada! Here I am!</p>
+    </div>
+</body>
+</html>
+```
