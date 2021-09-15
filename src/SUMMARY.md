@@ -2,6 +2,7 @@
 
 - [CSS stiliaus atributai (properties)](./css_properties.md)
 - [Šrifto apipavidalinimas](./font_styling.md)
+- [Box model](./box_model.md)
 - [Rėmelio (ang. border) apipavidalinimas](./border_css.md)
 - [Elementų lygiavimas (ang. alignment)](./alignment_css.md)
 - [Užduotis 1](./exercise_1.md)
