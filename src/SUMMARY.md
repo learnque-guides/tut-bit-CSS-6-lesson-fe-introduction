@@ -14,3 +14,4 @@
 - [pseudo-class panaudojimo pavyzdis](./pseudo_class_example.md)
 - [Užduotis 4](./exercise_4.md)
 - [Praktinė užduotis](./exercise_5.md)
+- [GRID layout based on flow layout](./grid_layout_on_flow_layout.md)
